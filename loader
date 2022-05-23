@@ -1,44 +1,11 @@
 [
-  {
-    "id":"Efauchier",
-    "uid":"1",
-    "cheatid":1343,
+   "hwid": {3381589812}, {2}
+
+   3381589812: {
+	"id":"Efauchier",
+	"uid":"1",
+	"cheatid":1343,
 	"version":1.0,
-    "hwid":3381589812
-  },
-  {
-    "id":"nomefoda123",
-    "uid":"5",
-    "cheatid":1,
-	"version":1.0,
-    "hwid":"not setted"
-  },
-  {
-    "id":"nomefoda123",
-    "uid":"5",
-    "cheatid":1,
-	"version":1.0,
-    "hwid":"not setted"
-  },
-  {
-    "id":"nomefoda123",
-    "uid":"5",
-    "cheatid":1,
-	"version":1.0,
-    "hwid":"not setted"
-  },
-  {
-    "id":"nomefoda123",
-    "uid":"5",
-    "cheatid":1,
-	"version":1.0,
-    "hwid":"not setted"
-  },
-  {
-    "id":"nomefoda123",
-    "uid":"6",
-    "cheatid":1,
-	"version":1.0,
-    "hwid":"not setted"
-  }
+	"hwid":3381589812
+	},
 ]
