@@ -1,11 +1,44 @@
 [
-   "hwid": {3381589812}, {2},
-
-   3381589812: {
-	"id":"Efauchier",
-	"uid":"1",
-	"cheatid":1343,
+  {
+    "id":"Efauchier",
+    "uid":"1",
+    "cheatid":1343,
 	"version":1.0,
-	"hwid":3381589812
-   },
+    "hwid":3381589812
+  },
+  {
+    "id":"knight1337",
+    "uid":"2",
+    "cheatid":1020,
+	"version":1.0,
+    "hwid":3357575292
+  },
+  {
+    "id":"smile",
+    "uid":"3",
+    "cheatid":1062,
+	"version":1.0,
+    "hwid":3362293608
+  },
+  {
+    "id":"Failed",
+    "uid":"4",
+    "cheatid":784,
+	"version":1.0,
+    "hwid":3324053576
+  },
+  {
+    "id":"nomefoda123",
+    "uid":"5",
+    "cheatid":1,
+	"version":1.0,
+    "hwid":"not setted"
+  },
+  {
+    "id":"nomefoda123",
+    "uid":"6",
+    "cheatid":1,
+	"version":1.0,
+    "hwid":"not setted"
+  }
 ]
